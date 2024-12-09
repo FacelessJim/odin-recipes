@@ -1,0 +1,40 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+#list-1{
+    text-align: center;
+    list-style: none;
+
+}
+
+#list-1 > li {
+    padding: 10px;
+}
+
+li {
+    padding: 5px;
+}
+
+img {
+    display: block;
+    max-width: 800px;
+    max-height: 700px;
+    margin: auto;
+}
+
+.notes{
+    font-style: italic;
+}
